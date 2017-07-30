@@ -1,1 +1,4 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Platform.targets(57,5): error MSB8020: The build tools for v140 (Platform Toolset = 'v140') cannot be found. To build using the v140 build tools, please install v140 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution".
+﻿  GameCore.cpp
+d:\google drive\college classes\fall 2016\game 399\final project sdl game\dungeongame_barebones\gamecore.cpp(152): warning C4018: '<': signed/unsigned mismatch
+  HelloSDL.vcxproj -> D:\Google Drive\College Classes\Fall 2016\GAME 399\Final Project SDL Game\DungeonGame_Barebones\Debug\DungeonGame.exe
+  HelloSDL.vcxproj -> D:\Google Drive\College Classes\Fall 2016\GAME 399\Final Project SDL Game\DungeonGame_Barebones\Debug\DungeonGame.pdb (Full PDB)
